@@ -1,5 +1,5 @@
 ##The website title
-name: Blog Name
+name: lasttale
 ##Markdown processor
 markdown: kramdown
 ##syntax highlighter. change it to pygments
@@ -26,10 +26,8 @@ keywords: some, relevant, keywords, for, usage, in metatags
 
 ##Some commonly used links
 links:
-  facebook: username
-  twitter: username
-  email: username@gmail.com
-  github: username
+  email: lasttale2@gmail.com
+  github: lasttale
 
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
 about_image: placeholder.jpg
